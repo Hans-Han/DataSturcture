@@ -149,7 +149,6 @@ T Chain<T>::Max()
 		else
 			current=current->link;
 	}
-	return max;
 }
 
 template <class T>
